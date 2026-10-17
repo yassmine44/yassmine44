@@ -50,7 +50,6 @@ I'm a final-year Computer Engineering student at ESPRIT (Tunis), specializing in
 
 **Languages:** Arabic (native) · French (B2) · English (B2) · German (intermediate)
 
-## GitHub activity
 
 
 <div align="center">
