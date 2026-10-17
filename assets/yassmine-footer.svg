@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="90" viewBox="0 0 1200 90" role="img" aria-labelledby="ymFootTitle">
+  <title id="ymFootTitle">Footer banner</title>
+  <defs>
+    <linearGradient id="ymFootBg" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#10070C"/>
+      <stop offset="0.5" stop-color="#32101F"/>
+      <stop offset="1" stop-color="#54162F"/>
+    </linearGradient>
+    <linearGradient id="ymFootLine" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#E5B5C7" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#E5B5C7" stop-opacity="0.9"/>
+      <stop offset="1" stop-color="#C77B9B" stop-opacity="0"/>
+    </linearGradient>
+    <clipPath id="ymFootClip"><rect width="1200" height="90" rx="14"/></clipPath>
+  </defs>
+  <g clip-path="url(#ymFootClip)">
+    <rect width="1200" height="90" fill="url(#ymFootBg)"/>
+    <path d="M0 62C150 40 300 84 450 62S750 40 900 62S1100 78 1200 58" fill="none" stroke="url(#ymFootLine)" stroke-width="2">
+      <animate attributeName="d"
+        values="M0 62C150 40 300 84 450 62S750 40 900 62S1100 78 1200 58;M0 58C150 78 300 44 450 62S750 80 900 58S1100 44 1200 62;M0 62C150 40 300 84 450 62S750 40 900 62S1100 78 1200 58"
+        dur="10s" repeatCount="indefinite"/>
+    </path>
+    <text x="600" y="38" text-anchor="middle" fill="#E5B5C7" font-family="Arial, Helvetica, sans-serif" font-size="16" letter-spacing="2">BUILDING USEFUL SOFTWARE · LEARNING ACROSS DISCIPLINES</text>
+  </g>
+</svg>
