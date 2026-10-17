@@ -1,26 +1,26 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="ymTitle ymDesc">
   <title id="ymTitle">Yassmine Megbli — FinTech, Data and AI, Full-Stack Development</title>
-  <desc id="ymDesc">Animated burgundy and rose banner for Yassmine Megbli's GitHub profile.</desc>
+  <desc id="ymDesc">Animated violet and lilac banner for Yassmine Megbli's GitHub profile.</desc>
   <defs>
     <linearGradient id="ymBg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#10070C"/>
-      <stop offset="0.55" stop-color="#32101F"/>
-      <stop offset="1" stop-color="#54162F">
-        <animate attributeName="stop-color" values="#54162F;#701A3D;#54162F" dur="9s" repeatCount="indefinite"/>
+      <stop offset="0" stop-color="#140D24"/>
+      <stop offset="0.55" stop-color="#211734"/>
+      <stop offset="1" stop-color="#432566">
+        <animate attributeName="stop-color" values="#432566;#633C8F;#432566" dur="9s" repeatCount="indefinite"/>
       </stop>
     </linearGradient>
     <linearGradient id="ymShine" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#E5B5C7" stop-opacity="0.1"/>
-      <stop offset="0.5" stop-color="#E5B5C7" stop-opacity="0.9"/>
-      <stop offset="1" stop-color="#C77B9B" stop-opacity="0.1"/>
+      <stop offset="0" stop-color="#DDD0F0" stop-opacity="0.1"/>
+      <stop offset="0.5" stop-color="#DDD0F0" stop-opacity="0.9"/>
+      <stop offset="1" stop-color="#C4A1FF" stop-opacity="0.1"/>
     </linearGradient>
     <linearGradient id="ymSweep" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#F8F0F3" stop-opacity="0"/>
-      <stop offset="0.5" stop-color="#F8F0F3" stop-opacity="1"/>
-      <stop offset="1" stop-color="#F8F0F3" stop-opacity="0"/>
+      <stop offset="0" stop-color="#F8F5FF" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#F8F5FF" stop-opacity="1"/>
+      <stop offset="1" stop-color="#F8F5FF" stop-opacity="0"/>
     </linearGradient>
     <pattern id="ymGrid" width="40" height="40" patternUnits="userSpaceOnUse">
-      <path d="M40 0H0V40" fill="none" stroke="#E5B5C7" stroke-opacity="0.09" stroke-width="1"/>
+      <path d="M40 0H0V40" fill="none" stroke="#DDD0F0" stroke-opacity="0.09" stroke-width="1"/>
       <animateTransform attributeName="patternTransform" type="translate" from="0 0" to="40 40" dur="24s" repeatCount="indefinite"/>
     </pattern>
     <clipPath id="ymClip"><rect width="1200" height="300" rx="18"/></clipPath>
@@ -32,15 +32,15 @@
 
     <!-- Orbital geometry -->
     <g transform="translate(1040 42)">
-      <circle r="190" fill="none" stroke="#C77B9B" stroke-opacity="0.22"/>
-      <circle r="145" fill="none" stroke="#E5B5C7" stroke-opacity="0.16"/>
+      <circle r="190" fill="none" stroke="#C4A1FF" stroke-opacity="0.22"/>
+      <circle r="145" fill="none" stroke="#DDD0F0" stroke-opacity="0.16"/>
       <g>
         <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="40s" repeatCount="indefinite"/>
-        <circle cx="190" cy="0" r="4" fill="#E5B5C7"/>
+        <circle cx="190" cy="0" r="4" fill="#DDD0F0"/>
       </g>
       <g>
         <animateTransform attributeName="transform" type="rotate" from="360" to="0" dur="28s" repeatCount="indefinite"/>
-        <circle cx="145" cy="0" r="3" fill="#C77B9B"/>
+        <circle cx="145" cy="0" r="3" fill="#C4A1FF"/>
       </g>
     </g>
 
@@ -48,25 +48,25 @@
     <path d="M770 240C850 210 880 240 950 190S1080 140 1200 175" fill="none" stroke="url(#ymShine)" stroke-width="2">
       <animate attributeName="stroke-dasharray" values="0 1400;1400 0;1400 0" keyTimes="0;0.6;1" dur="8s" repeatCount="indefinite"/>
     </path>
-    <path d="M780 258C870 228 905 260 980 212S1100 170 1200 195" fill="none" stroke="#C77B9B" stroke-opacity="0.5" stroke-width="1"/>
+    <path d="M780 258C870 228 905 260 980 212S1100 170 1200 195" fill="none" stroke="#C4A1FF" stroke-opacity="0.5" stroke-width="1"/>
 
     <!-- Text -->
-    <text x="74" y="116" fill="#F8F0F3" font-family="Arial, Helvetica, sans-serif" font-size="48" font-weight="700" letter-spacing="1">YASSMINE MEGBLI</text>
+    <text x="74" y="116" fill="#F8F5FF" font-family="Arial, Helvetica, sans-serif" font-size="48" font-weight="700" letter-spacing="1">YASSMINE MEGBLI</text>
     <rect x="76" y="140" width="430" height="2" fill="url(#ymShine)"/>
     <rect x="76" y="139" width="90" height="4" rx="2" fill="url(#ymSweep)">
       <animate attributeName="x" values="76;416;76" dur="5s" repeatCount="indefinite"/>
     </rect>
-    <text x="76" y="183" fill="#E5B5C7" font-family="Arial, Helvetica, sans-serif" font-size="21" letter-spacing="2">FINAL-YEAR COMPUTER ENGINEERING STUDENT</text>
-    <text x="76" y="225" fill="#F8F0F3" font-family="Arial, Helvetica, sans-serif" font-size="19">FinTech  ·  Data &amp; AI  ·  Full-Stack Development</text>
+    <text x="76" y="183" fill="#DDD0F0" font-family="Arial, Helvetica, sans-serif" font-size="21" letter-spacing="2">FINAL-YEAR COMPUTER ENGINEERING STUDENT</text>
+    <text x="76" y="225" fill="#F8F5FF" font-family="Arial, Helvetica, sans-serif" font-size="19">FinTech  ·  Data &amp; AI  ·  Full-Stack Development</text>
 
     <!-- Pulsing dots -->
-    <circle cx="1100" cy="218" r="5" fill="#E5B5C7">
+    <circle cx="1100" cy="218" r="5" fill="#DDD0F0">
       <animate attributeName="opacity" values="1;0.3;1" dur="2.4s" repeatCount="indefinite"/>
     </circle>
-    <circle cx="1130" cy="218" r="5" fill="#C77B9B">
+    <circle cx="1130" cy="218" r="5" fill="#C4A1FF">
       <animate attributeName="opacity" values="1;0.3;1" dur="2.4s" begin="0.4s" repeatCount="indefinite"/>
     </circle>
-    <circle cx="1160" cy="218" r="5" fill="#E5B5C7">
+    <circle cx="1160" cy="218" r="5" fill="#DDD0F0">
       <animate attributeName="opacity" values="1;0.3;1" dur="2.4s" begin="0.8s" repeatCount="indefinite"/>
     </circle>
   </g>
