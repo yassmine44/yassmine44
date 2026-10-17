@@ -52,10 +52,6 @@ I'm a final-year Computer Engineering student at ESPRIT (Tunis), specializing in
 
 ## GitHub activity
 
-<p align="center">
-  <img src="https://ghchart.rshah.org/C77B9B/yassmine44" alt="Yassmine's GitHub contribution graph" width="100%" />
-</p>
-<p align="center"><sub>Live contribution graph generated from my GitHub account.</sub></p>
 
 <div align="center">
   <img src="assets/yassmine-footer.svg" alt="Building useful software, learning across disciplines" width="100%" />
